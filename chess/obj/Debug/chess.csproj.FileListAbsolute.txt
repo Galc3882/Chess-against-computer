@@ -1,0 +1,40 @@
+C:\Users\Gal\Desktop\C#\chess\chess\bin\Debug\chess.exe.config
+C:\Users\Gal\Desktop\C#\chess\chess\bin\Debug\chess.exe
+C:\Users\Gal\Desktop\C#\chess\chess\bin\Debug\chess.pdb
+C:\Users\Gal\Desktop\C#\chess\chess\obj\Debug\chess.Window.resources
+C:\Users\Gal\Desktop\C#\chess\chess\obj\Debug\chess.Properties.Resources.resources
+C:\Users\Gal\Desktop\C#\chess\chess\obj\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\Gal\Desktop\C#\chess\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\Gal\Desktop\C#\chess\chess\obj\Debug\chess.exe
+C:\Users\Gal\Desktop\C#\chess\chess\obj\Debug\chess.pdb
+Z:\Gal\C#\chess\chess\bin\Debug\chess.exe.config
+Z:\Gal\C#\chess\chess\bin\Debug\chess.exe
+Z:\Gal\C#\chess\chess\bin\Debug\chess.pdb
+Z:\Gal\C#\chess\chess\obj\Debug\chess.csprojResolveAssemblyReference.cache
+Z:\Gal\C#\chess\chess\obj\Debug\chess.Window.resources
+Z:\Gal\C#\chess\chess\obj\Debug\chess.Properties.Resources.resources
+Z:\Gal\C#\chess\chess\obj\Debug\chess.csproj.GenerateResource.Cache
+Z:\Gal\C#\chess\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+Z:\Gal\C#\chess\chess\obj\Debug\chess.exe
+Z:\Gal\C#\chess\chess\obj\Debug\chess.pdb
+C:\Users\Gal\Desktop\C#\chess\chess\obj\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\bin\Debug\chess.exe.config
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\bin\Debug\chess.exe
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\bin\Debug\chess.pdb
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\obj\Debug\chess.csprojAssemblyReference.cache
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\obj\Debug\chess.Window.resources
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\obj\Debug\chess.Properties.Resources.resources
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\obj\Debug\chess.exe
+C:\Users\Dkdkmtc\Downloads\chess - Copy\chess\obj\Debug\chess.pdb
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\bin\Debug\chess.exe.config
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\bin\Debug\chess.exe
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\bin\Debug\chess.pdb
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\obj\Debug\chess.csprojAssemblyReference.cache
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\obj\Debug\chess.Window.resources
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\obj\Debug\chess.Properties.Resources.resources
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\obj\Debug\chess.exe
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\obj\Debug\chess.pdb
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\chess\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
